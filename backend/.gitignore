@@ -1,0 +1,5 @@
+gpt2-machine-health/
+*.pkl
+xgboost_model.json
+venv/
+__pycache__/

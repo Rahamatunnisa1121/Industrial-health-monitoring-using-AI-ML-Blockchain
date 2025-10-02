@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+joblib
+xgboost
+transformers
+torch
+numpy
+pydantic
